@@ -3,7 +3,6 @@ package ivan.samoylov;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.PrintWriter;
-import java.util.Scanner;
 import java.io.File;
 
 public class Main {
